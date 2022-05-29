@@ -19,3 +19,7 @@ main > :first-child {
 main > :last-child {
   margin-bottom: 0;
 }
+
+body {
+  padding: 1em;
+}
