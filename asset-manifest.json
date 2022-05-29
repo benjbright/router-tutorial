@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/router-tutorial/static/css/main.bff5f9a4.css",
-    "main.js": "/router-tutorial/static/js/main.bd2b6771.js",
+    "main.css": "/router-tutorial/static/css/main.c3a283d6.css",
+    "main.js": "/router-tutorial/static/js/main.29b1e12f.js",
     "index.html": "/router-tutorial/index.html",
-    "main.bff5f9a4.css.map": "/router-tutorial/static/css/main.bff5f9a4.css.map",
-    "main.bd2b6771.js.map": "/router-tutorial/static/js/main.bd2b6771.js.map"
+    "main.c3a283d6.css.map": "/router-tutorial/static/css/main.c3a283d6.css.map",
+    "main.29b1e12f.js.map": "/router-tutorial/static/js/main.29b1e12f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bff5f9a4.css",
-    "static/js/main.bd2b6771.js"
+    "static/css/main.c3a283d6.css",
+    "static/js/main.29b1e12f.js"
   ]
 }
